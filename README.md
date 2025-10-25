@@ -87,6 +87,10 @@ WRITE SOMETHING HERE ->
 4. Press the green "Commit changes..." button.
 5. Open GitHub Desktop and click "Pull origin" at the top of the screen.
 
+<br>
+WRITING SOMETHING HERE
+</br>
+
 ### 13. Go to an old version. 
 1. In GitHub Desktop, click "History" in the left menu.
 2. Right click on the commit where you forked this workshop repo.
